@@ -1,6 +1,9 @@
 
 ![MasterHead](https://i.ibb.co/xfnPXTL/3357954.jpg)
+Hi :blush:
+Welcome to my GitHub 
 
+I'm good at Javascript,MongoDB,React,Vite,Tailwind,Firebase,NodeJs
 
 -Technology that i know 
 
