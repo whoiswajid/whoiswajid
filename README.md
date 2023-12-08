@@ -19,4 +19,4 @@ Welcome to my GitHub
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,github,nodejs,react,vite,vscode,mongodb)](https://skillicons.dev)
 
-<div align='center'>[![GitHub Streak](https://streak-stats.demolab.com?user=whoiswajid&theme=rose-pine)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=whoiswajid&theme=rose-pine)](https://git.io/streak-stats)
