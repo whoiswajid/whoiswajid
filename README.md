@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.ibb.co/xfnPXTL/3357954.jpg)
+![MasterHead](https://i.ibb.co/xfnPXTL/3357954.jpg)
 
 
 -Technology that i know 
