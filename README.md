@@ -2,7 +2,7 @@
 [![MasterHead](https://i.ibb.co/xfnPXTL/3357954.jpg)
 
 
-#Technology that i know 
+-Technology that i know 
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,github,nodejs,react,vite,vscode,mongodb)](https://skillicons.dev)
