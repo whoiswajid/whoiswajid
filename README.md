@@ -1,6 +1,7 @@
 
 ![MasterHead](https://i.ibb.co/xfnPXTL/3357954.jpg)
-Hi :blush:
+
+<h2> Hi :blush: </h2>
 Welcome to my GitHub 
 
 
@@ -10,9 +11,7 @@ Welcome to my GitHub
   Connect with me: <p>
 <a href="https://www.linkedin.com/in/daiyan-salam-694967245/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p> </h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/daiyan-salam-694967245/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-</p>
+
 
 
 -Technology that i know 
