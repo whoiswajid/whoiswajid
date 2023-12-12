@@ -1,5 +1,5 @@
 
-![MasterHead]([https://i.ibb.co/xfnPXTL/3357954.jpg](https://i.ibb.co/Bf76fFF/Screenshot-2023-12-11-162722.png))
+![MasterHead](https://i.ibb.co/Bf76fFF/Screenshot-2023-12-11-162722.png)
 
 <h2> Hi :blush: </h2>
 Welcome to my GitHub 
